@@ -11,7 +11,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 @Service
-public class ScreenshotService {
+public class    ScreenshotService {
 
     @Autowired
     private ScreenshotRepo screenshotRepo;
