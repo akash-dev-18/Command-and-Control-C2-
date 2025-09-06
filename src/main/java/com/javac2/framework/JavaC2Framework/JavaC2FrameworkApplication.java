@@ -11,5 +11,4 @@ public class JavaC2FrameworkApplication {
 
 	}
 
-
 }

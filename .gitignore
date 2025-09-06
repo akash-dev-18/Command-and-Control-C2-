@@ -1,0 +1,13 @@
+
+.idea/
+*.iml
+/python_agent/myenv
+
+target/
+
+
+*.log
+
+
+.DS_Store
+Thumbs.db
